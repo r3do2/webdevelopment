@@ -1,4 +1,4 @@
-# Hcaktoberfest 2021
+# Hacktoberfest 2021
 
 ## PARTICIPATION
 <h2>Details</h2>
